@@ -19,14 +19,6 @@ atom_feed:
 author:
   name: "Michael Miller"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/millerms/book-study-group"
-  since: "2026"
-
 # Reading Files
 include:
   - .htaccess
