@@ -21,7 +21,7 @@ I put together a tentative 12-week path through early Buddhism, Theravada, Mahay
 
 ## Companion book
 
-We could also use Bhikkhu Bodhi's *In the Buddha's Words* as a loose companion text.
+We could also use Bhikkhu Bodhi's *In the Buddha's Words* as a companion text.
 
 It's a well-regarded anthology of teachings from the Pāli Canon, organized by theme with short introductions and context from a respected Theravada scholar-monk.
 
@@ -34,6 +34,3 @@ Most of the early texts are available free on SuttaCentral, and I'll add links t
 [Texts & resources]({{ '/resources/' | relative_url }})
 
 ---
-
-**Next:** [Meeting 1: The Buddha and the world he was responding to]({{ '/curriculum/' | relative_url }}#meeting-1)
-{: .next-reading }
