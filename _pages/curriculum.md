@@ -1,8 +1,10 @@
 ---
-title: "A rough reading plan"
+title: "Reading Plan"
 permalink: /curriculum/
 excerpt: "Twelve weeks from early Buddhism to the many traditions that followed."
 ---
+
+# A rough reading plan
 
 Here is a possible route through all of this.
 
@@ -16,9 +18,9 @@ Nothing here is set in stone. We can move things around, spend longer somewhere,
 
 ---
 
-## Meeting 1 — The Buddha and the world he was responding to {#meeting-1}
+## Meeting 1 — The Buddha and the world he was responding to
 
- Who was the Buddha, what kind of religious world was he living in, and what was he actually looking for?
+Who was the Buddha, what kind of religious world was he living in, and what was he actually looking for?
 
 ### Bhikkhu Bodhi
 
@@ -48,7 +50,7 @@ The traditional account of the first teaching.
 
 ## Meeting 2 — The human condition
 
- What problem does Buddhism think we are dealing with in the first place?
+What problem does Buddhism think we are dealing with in the first place?
 
 Aging, illness, death, change, conflict, painful feeling, and the larger idea of saṃsāra all show up here.
 
@@ -78,7 +80,7 @@ Bodhi has several other short selections here, so this is probably a good week t
 
 ## Meeting 3 — Approaching the teachings
 
- What attitude do these texts actually encourage toward teachers, beliefs, and claims?
+What attitude do these texts actually encourage toward teachers, beliefs, and claims?
 
 This seems like a useful place to look at some of the texts that get quoted a lot in modern Buddhism and see what they actually say in context.
 
@@ -106,7 +108,7 @@ A text about investigating the teacher rather than simply trusting appearances.
 
 ## Meeting 4 — Buddhism for people who are not monks
 
- What did Buddhist teaching look like for householders?
+What did Buddhist teaching look like for householders?
 
 Relationships, work, money, family, friendship, generosity, ethics, and trying to live a decent life without leaving everything behind.
 
@@ -136,7 +138,7 @@ Advice to a layperson about well-being in this life and beyond.
 
 ## Meeting 5 — Karma, rebirth, and the Buddhist universe
 
- What do the early texts actually say about karma, rebirth, different realms of existence, and what happens after death?
+What do the early texts actually say about karma, rebirth, different realms of existence, and what happens after death?
 
 Rather than translating all of this immediately into modern psychological language, it might be interesting to first see what worldview the texts themselves present.
 
@@ -160,7 +162,7 @@ This might also turn into more than one meeting if we get pulled into questions 
 
 ## Meeting 6 — The path
 
- How does Buddhism describe the actual path from ordinary life toward liberation?
+How does Buddhism describe the actual path from ordinary life toward liberation?
 
 This is where the pieces start getting organized into a more recognizable training.
 
@@ -196,7 +198,7 @@ A much longer presentation of the gradual training.
 
 ## Meeting 7 — Training the mind
 
- Meditation, mindfulness, concentration, hindrances, loving-kindness, and what "training the mind" looks like in the early texts.
+Meditation, mindfulness, concentration, hindrances, loving-kindness, and what "training the mind" looks like in the early texts.
 
 ### Bhikkhu Bodhi
 
@@ -233,7 +235,7 @@ If we want a breath practice text, we could also look at:
 
 ## Meeting 8 — Wisdom, not-self, and dependent origination
 
- This is where some of the more philosophically interesting material starts to come together: impermanence, suffering, not-self, dependent origination, and what Buddhist "wisdom" is supposed to see.
+This is where some of the more philosophically interesting material starts to come together: impermanence, suffering, not-self, dependent origination, and what Buddhist "wisdom" is supposed to see.
 
 ### Bhikkhu Bodhi
 
@@ -263,7 +265,7 @@ This is probably another place where one meeting could easily turn into several.
 
 ---
 
-## Then we zoom out
+# Then we zoom out
 
 Up to this point, most of the reading is coming from early Buddhist texts preserved in the Pāli Canon.
 
@@ -283,7 +285,7 @@ The rest of this plan is especially tentative.
 
 ## Meeting 9 — After the Buddha
 
- Oral transmission, councils, the formation of Buddhist canons, early Buddhist schools, and how scholars try to figure out which material might be early.
+Oral transmission, councils, the formation of Buddhist canons, early Buddhist schools, and how scholars try to figure out which material might be early.
 
 This could be a fun week to compare two versions of the same discourse preserved in different early Buddhist textual traditions.
 
@@ -297,7 +299,7 @@ This is one of the places where we'll probably use more historical background al
 
 ## Meeting 10 — Theravada and the Pāli tradition
 
- How the tradition that preserved the Pāli Canon developed in Sri Lanka and Southeast Asia.
+How the tradition that preserved the Pāli Canon developed in Sri Lanka and Southeast Asia.
 
 Buddhaghosa, the commentarial tradition, meditation traditions, and eventually the modern Vipassana movements.
 
@@ -311,7 +313,7 @@ TBD.
 
 ## Meeting 11 — Mahayana and emptiness
 
- The emergence of Mahayana texts and communities, the bodhisattva ideal, Prajñāpāramitā, and eventually Nāgārjuna and Madhyamaka.
+The emergence of Mahayana texts and communities, the bodhisattva ideal, Prajñāpāramitā, and eventually Nāgārjuna and Madhyamaka.
 
 ### Possible reading
 
@@ -327,7 +329,7 @@ Definitely selections. Nobody needs to be ambushed by all 27 chapters.
 
 ## Meeting 12 — Buddhism spreads and becomes many Buddhisms
 
- Buddhism moving into China, Korea, Japan, Tibet, Southeast Asia, and eventually the modern West.
+Buddhism moving into China, Korea, Japan, Tibet, Southeast Asia, and eventually the modern West.
 
 Chan / Zen, Pure Land, Tibetan Vajrayana, Buddhist modernism, Vipassana, and the forms of Buddhism we're most likely to encounter today.
 
