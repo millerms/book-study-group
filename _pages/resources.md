@@ -26,7 +26,7 @@ Bhikkhu Bodhi organizes selected suttas by theme and provides introductions that
 
 We don't have to follow the book exactly, but it gives us a good guide when we want some context from a respected Theravada scholar and teacher.
 
-I'll put the relevant sections on the weekly pages when they line up with what we're reading.
+I'll put the relevant sections in the reading plan when they line up with what we're reading.
 
 **Optional, but probably useful to have.**
 

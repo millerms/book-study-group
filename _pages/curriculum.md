@@ -4,219 +4,348 @@ permalink: /curriculum/
 excerpt: "Twelve weeks from early Buddhism to the many traditions that followed."
 ---
 
-Here's a possible route through all of this.
+Here is a possible route through all of this.
 
-The basic idea is to start with early Buddhism and spend some time actually reading the Pāli Canon, then follow Buddhism as it develops into different schools and moves into different parts of Asia.
+For the first part, we will lean pretty heavily on Bhikkhu Bodhi's *In the Buddha's Words* and use it as a companion to the early texts. Bodhi has already done a lot of useful organizing, so it makes sense not to reinvent that.
 
-This is definitely not a syllabus. If something is interesting, we can stay there. If something isn't, we can move on. We can also swap readings around as we figure out what we actually want to learn about.
+We do not have to read every selection in every chapter. The basic idea is to use his introductions and a few of the primary texts as a shared starting point, then follow whatever seems interesting.
 
-For the early weeks, we'll use *In the Buddha's Words* as a companion when it lines up well with what we're reading.
+After that, we can zoom out and look at how Buddhism developed into different schools and traditions.
+
+Nothing here is set in stone. We can move things around, spend longer somewhere, skip something, or completely rewrite the second half once we know what we are actually curious about.
 
 ---
 
-## Week 1 — The world of the Buddha
+## Meeting 1 — The Buddha and the world he was responding to {#meeting-1}
 
-**Roughly:** What was happening in northern India when Buddhism emerged? Renunciant traditions, karma, rebirth, liberation, and what we can actually know about the historical Buddha.
+ Who was the Buddha, what kind of religious world was he living in, and what was he actually looking for?
 
-### Read
+### Bhikkhu Bodhi
+
+*In the Buddha's Words*
+
+**Chapter II — The Bringer of Light**
+
+Bodhi's selections here include accounts of the Buddha's search for awakening, his decision to teach, and the traditional first discourse.
+
+### Core reading
 
 **MN 26 — Ariyapariyesanā Sutta: The Noble Search**
 
-The Buddha tells the story of leaving home, studying with other teachers, experimenting with different approaches, and eventually pursuing awakening himself.
+A first-person-style account of the Buddha leaving home, studying with other teachers, and pursuing awakening.
 
 [Read MN 26 on SuttaCentral](https://suttacentral.net/mn26/en/sujato)
 
-### Companion
+### Also in Bodhi
 
-*In the Buddha's Words* — we'll find the relevant introductory material and selections before we meet.
+**SN 56.11 — Dhammacakkappavattana Sutta**
 
-[Week 1 →]({{ '/curriculum/week-01/' | relative_url }})
-
----
-
-## Week 2 — Dukkha and the path
-
-**Roughly:** The basic problem Buddhism is trying to solve: dukkha, craving, cessation, the middle way, and the Noble Eightfold Path.
-
-### Read
-
-**SN 56.11 — Dhammacakkappavattana Sutta: Setting the Dhamma Wheel in Motion**
-
-The traditional account of the Buddha's first teaching and one of the foundational presentations of the Four Noble Truths and Middle Way.
+The traditional account of the first teaching.
 
 [Read SN 56.11 on SuttaCentral](https://suttacentral.net/sn56.11/en/sujato)
 
-### Maybe more
+---
 
-We'll add another short text on the Eightfold Path if we want a little more here.
+## Meeting 2 — The human condition
 
-[Week 2 →]({{ '/curriculum/week-02/' | relative_url }})
+ What problem does Buddhism think we are dealing with in the first place?
+
+Aging, illness, death, change, conflict, painful feeling, and the larger idea of saṃsāra all show up here.
+
+### Bhikkhu Bodhi
+
+**Chapter I — The Human Condition**
+
+### Core reading
+
+**SN 36.6 — Sallattha Sutta: The Dart**
+
+A short and very practical text about painful experience and the additional suffering we can create around it.
+
+[Read SN 36.6 on SuttaCentral](https://suttacentral.net/sn36.6/en/sujato)
+
+### If we want more
+
+**SN 3.25 — Pabbatūpama Sutta: The Simile of the Mountain**
+
+A reflection on aging and death.
+
+[Read SN 3.25 on SuttaCentral](https://suttacentral.net/sn3.25/en/sujato)
+
+Bodhi has several other short selections here, so this is probably a good week to browse rather than try to read the whole chapter closely.
 
 ---
 
-## Week 3 — Self and not-self
+## Meeting 3 — Approaching the teachings
 
-**Roughly:** The five aggregates, impermanence, and what early Buddhist texts are actually doing with the idea of *anattā* / not-self.
+ What attitude do these texts actually encourage toward teachers, beliefs, and claims?
 
-### Read
+This seems like a useful place to look at some of the texts that get quoted a lot in modern Buddhism and see what they actually say in context.
 
-**SN 22.59 — Anattalakkhaṇa Sutta: The Characteristic of Not-Self**
+### Bhikkhu Bodhi
 
-The Buddha examines form, feeling, perception, choices, and consciousness and asks whether any of them can appropriately be regarded as "mine," "I," or "my self."
+**Chapter III — Approaching the Dhamma**
 
-[Read SN 22.59 on SuttaCentral](https://suttacentral.net/sn22.59/en/sujato)
+### Core reading
 
-### Maybe more
+**AN 3.65 — Kesamutti Sutta / Kālāma Sutta**
 
-There are a lot of short suttas in the Saṃyutta Nikāya dealing with the aggregates, so this seems like a good place to follow whatever questions come up.
+The famous discourse to the Kālāmas, which is often summarized as "believe nothing and test everything," although the actual text is a little more complicated.
 
-[Week 3 →]({{ '/curriculum/week-03/' | relative_url }})
-
----
-
-## Week 4 — Dependent origination
-
-**Roughly:** Things arise because of conditions. Simple enough until you try to figure out exactly what that means.
-
-We'll look at some of the early presentations of dependent origination and probably run into questions about rebirth, moment-to-moment experience, causality, and how later Buddhists interpreted all of this.
-
-### Read
-
-**SN 12.15 — Kaccānagotta Sutta: Kaccāna Gotta**
-
-A short but important text connecting dependent origination with avoiding the extremes of existence and non-existence.
-
-[Read SN 12.15 on SuttaCentral](https://suttacentral.net/sn12.15/en/sujato)
-
-We'll probably add another discourse that lays out the links of dependent origination more explicitly.
-
-[Week 4 →]({{ '/curriculum/week-04/' | relative_url }})
-
----
-
-## Week 5 — Meditation in early Buddhism
-
-**Roughly:** What did meditation actually look like in the early texts, and how similar is it to the practices we encounter today?
-
-### Read
-
-**MN 118 — Ānāpānasati Sutta: Mindfulness of Breathing**
-
-A detailed presentation of breath meditation and how it connects with mindfulness, awakening factors, and liberation.
-
-[Read MN 118 on SuttaCentral](https://suttacentral.net/mn118/en/sujato)
+[Read AN 3.65 on SuttaCentral](https://suttacentral.net/an3.65/en/sujato)
 
 ### Maybe more
 
-**MN 10 — Satipaṭṭhāna Sutta: Mindfulness Meditation**
+**MN 47 — Vīmaṃsaka Sutta: The Inquirer**
 
-A major early source for the four establishments of mindfulness.
+A text about investigating the teacher rather than simply trusting appearances.
 
-[Read MN 10 on SuttaCentral](https://suttacentral.net/mn10/en/sujato)
-
-This one is longer, so we might read selections rather than treating both as required.
-
-[Week 5 →]({{ '/curriculum/week-05/' | relative_url }})
+[Read MN 47 on SuttaCentral](https://suttacentral.net/mn47/en/sujato)
 
 ---
 
-## Week 6 — What Buddhist life actually looked like
+## Meeting 4 — Buddhism for people who are not monks
 
-**Roughly:** Ethics, monastic life, lay practice, generosity, karma, merit, friendship, rebirth, cosmology, and some of the parts of early Buddhism that don't always make it into a modern meditation class.
+ What did Buddhist teaching look like for householders?
 
-### Possible reading
+Relationships, work, money, family, friendship, generosity, ethics, and trying to live a decent life without leaving everything behind.
 
-**DN 31 — Sigālaka Sutta: Advice to Sigālaka**
+### Bhikkhu Bodhi
 
-A substantial teaching directed toward a layperson about relationships, responsibilities, ethics, friendship, work, and household life.
+**Chapter IV — The Happiness Visible in This Present Life**
+
+### Core reading
+
+**DN 31 — Sigālaka Sutta**
+
+A substantial teaching about relationships, responsibilities, friendship, work, family, and household life.
 
 [Read DN 31 on SuttaCentral](https://suttacentral.net/dn31/en/sujato)
 
-We may choose selections or find a few shorter texts instead.
+This one is long, so we can either read selections or just see how ambitious everyone feels.
 
-[Week 6 →]({{ '/curriculum/week-06/' | relative_url }})
+### Shorter option
 
----
+**AN 8.54 — Dīghajāṇu Sutta**
 
-## Week 7 — What happened after the Buddha?
+Advice to a layperson about well-being in this life and beyond.
 
-**Roughly:** Oral transmission, councils, the formation of Buddhist texts, early schools, and the problem of figuring out how old any particular teaching actually is.
-
-This might be a good week to do something different: read a short discourse alongside a parallel version preserved in another early Buddhist collection and see what stayed the same and what changed.
-
-**Reading TBD.**
-
-[Week 7 →]({{ '/curriculum/week-07/' | relative_url }})
+[Read AN 8.54 on SuttaCentral](https://suttacentral.net/an8.54/en/sujato)
 
 ---
 
-## Week 8 — Theravada
+## Meeting 5 — Karma, rebirth, and the Buddhist universe
 
-**Roughly:** How one early Buddhist lineage developed in Sri Lanka and Southeast Asia, preserved the Pāli Canon, developed its own commentarial traditions, and eventually contributed to the modern Vipassana/Insight movements many of us encounter today.
+ What do the early texts actually say about karma, rebirth, different realms of existence, and what happens after death?
 
-This seems like a good place to put an early sutta beside a later Theravada interpretation rather than adding another isolated primary text.
+Rather than translating all of this immediately into modern psychological language, it might be interesting to first see what worldview the texts themselves present.
 
-**Reading TBD.**
+### Bhikkhu Bodhi
 
-[Week 8 →]({{ '/curriculum/week-08/' | relative_url }})
+**Chapter V — The Way to a Fortunate Rebirth**
+
+and parts of
+
+**Chapter VI — Deepening One's Perspective on the World**
+
+This will probably be a selective week rather than trying to cover both chapters.
+
+### Reading
+
+We can choose a few of Bodhi's shorter selections once we see which parts of these chapters seem most interesting.
+
+This might also turn into more than one meeting if we get pulled into questions about karma or rebirth.
 
 ---
 
-## Week 9 — Mahayana shows up
+## Meeting 6 — The path
 
-**Roughly:** New Buddhist texts and movements begin emphasizing the bodhisattva path, Prajñāpāramitā ("Perfection of Wisdom"), emptiness, and a substantially expanded Buddhist universe.
+ How does Buddhism describe the actual path from ordinary life toward liberation?
+
+This is where the pieces start getting organized into a more recognizable training.
+
+### Bhikkhu Bodhi
+
+**Chapter VII — The Path to Liberation**
+
+### Core reading
+
+**SN 45.8 — Maggavibhaṅga Sutta: Analysis of the Eightfold Path**
+
+A compact explanation of the Noble Eightfold Path.
+
+[Read SN 45.8 on SuttaCentral](https://suttacentral.net/sn45.8/en/sujato)
+
+### Maybe more
+
+**SN 45.2 — Upaḍḍha Sutta: Half the Spiritual Life**
+
+A very short text about good friendship.
+
+[Read SN 45.2 on SuttaCentral](https://suttacentral.net/sn45.2/en/sujato)
+
+Or:
+
+**MN 27 — Cūḷahatthipadopama Sutta**
+
+A much longer presentation of the gradual training.
+
+[Read MN 27 on SuttaCentral](https://suttacentral.net/mn27/en/sujato)
+
+---
+
+## Meeting 7 — Training the mind
+
+ Meditation, mindfulness, concentration, hindrances, loving-kindness, and what "training the mind" looks like in the early texts.
+
+### Bhikkhu Bodhi
+
+**Chapter VIII — Mastering the Mind**
+
+### Core reading
+
+**MN 10 — Satipaṭṭhāna Sutta**
+
+One of the major early texts on the four establishments of mindfulness.
+
+[Read MN 10 on SuttaCentral](https://suttacentral.net/mn10/en/sujato)
+
+### Maybe more
+
+Bodhi includes material on:
+
+- the hindrances
+- distracting thoughts
+- loving-kindness
+- mindfulness
+- breathing
+- concentration
+
+So we can choose another text based on what we actually want to explore.
+
+If we want a breath practice text, we could also look at:
+
+**SN 54.13 — Ānandasutta**
+
+[Read SN 54.13 on SuttaCentral](https://suttacentral.net/sn54.13/en/sujato)
+
+---
+
+## Meeting 8 — Wisdom, not-self, and dependent origination
+
+ This is where some of the more philosophically interesting material starts to come together: impermanence, suffering, not-self, dependent origination, and what Buddhist "wisdom" is supposed to see.
+
+### Bhikkhu Bodhi
+
+**Chapter IX — Shining the Light of Wisdom**
+
+and, if useful,
+
+**Chapter X — The Planes of Realization**
+
+### Core reading
+
+**SN 22.59 — Anattalakkhaṇa Sutta: The Characteristic of Not-Self**
+
+The five aggregates and the question of whether any of them can properly be regarded as "mine," "I," or "my self."
+
+[Read SN 22.59 on SuttaCentral](https://suttacentral.net/sn22.59/en/sujato)
+
+### Also worth reading
+
+**SN 12.15 — Kaccānagotta Sutta**
+
+A short text connecting dependent origination with avoiding the extremes of existence and non-existence.
+
+[Read SN 12.15 on SuttaCentral](https://suttacentral.net/sn12.15/en/sujato)
+
+This is probably another place where one meeting could easily turn into several.
+
+---
+
+## Then we zoom out
+
+Up to this point, most of the reading is coming from early Buddhist texts preserved in the Pāli Canon.
+
+From here, the questions change a little:
+
+How did these teachings get preserved?
+
+What happened when different Buddhist schools developed?
+
+Where did Mahayana come from?
+
+How did Buddhism eventually become Theravada, Zen, Tibetan Buddhism, and the other traditions we encounter now?
+
+The rest of this plan is especially tentative.
+
+---
+
+## Meeting 9 — After the Buddha
+
+ Oral transmission, councils, the formation of Buddhist canons, early Buddhist schools, and how scholars try to figure out which material might be early.
+
+This could be a fun week to compare two versions of the same discourse preserved in different early Buddhist textual traditions.
+
+### Reading
+
+TBD.
+
+This is one of the places where we'll probably use more historical background alongside the primary text.
+
+---
+
+## Meeting 10 — Theravada and the Pāli tradition
+
+ How the tradition that preserved the Pāli Canon developed in Sri Lanka and Southeast Asia.
+
+Buddhaghosa, the commentarial tradition, meditation traditions, and eventually the modern Vipassana movements.
+
+One thing that seems especially interesting here is comparing an early text we've already read with the way later Theravada interprets or systematizes it.
+
+### Reading
+
+TBD.
+
+---
+
+## Meeting 11 — Mahayana and emptiness
+
+ The emergence of Mahayana texts and communities, the bodhisattva ideal, Prajñāpāramitā, and eventually Nāgārjuna and Madhyamaka.
 
 ### Possible reading
 
 **The Heart Sutra**
 
-Very short, very famous, and probably much stranger once we read it in the context of the earlier material we've spent eight weeks with.
+Short enough that we can read it closely, and probably much more interesting after spending time with the earlier material it is responding to.
 
-We'll pick a good translation and probably pair it with a little earlier Prajñāpāramitā material.
+We can also read a few selections from Nāgārjuna's *Mūlamadhyamakakārikā* if that seems useful.
 
-[Week 9 →]({{ '/curriculum/week-09/' | relative_url }})
-
----
-
-## Week 10 — Nāgārjuna and emptiness
-
-**Roughly:** Nāgārjuna takes dependent origination in some fairly radical directions. This is where we start looking more closely at Madhyamaka, emptiness, and the idea that things don't possess an independent, intrinsic nature.
-
-### Read
-
-Selections from Nāgārjuna's *Mūlamadhyamakakārikā* (MMK).
-
-Definitely selections. Nobody needs all 27 chapters dropped on them without warning.
-
-We'll choose the passages once we know what questions we're bringing into this week.
-
-[Week 10 →]({{ '/curriculum/week-10/' | relative_url }})
+Definitely selections. Nobody needs to be ambushed by all 27 chapters.
 
 ---
 
-## Week 11 — Buddhism moves east
+## Meeting 12 — Buddhism spreads and becomes many Buddhisms
 
-**Roughly:** Buddhism travels through Central Asia into China and eventually develops into Chinese traditions including Tiantai, Huayan, Pure Land, and Chan, with Chan later becoming Zen, Seon, and Thiền.
+ Buddhism moving into China, Korea, Japan, Tibet, Southeast Asia, and eventually the modern West.
 
-Rather than treating "East Asian Buddhism" as synonymous with Zen, we'll try to read something from Chan and something from another major East Asian tradition.
+Chan / Zen, Pure Land, Tibetan Vajrayana, Buddhist modernism, Vipassana, and the forms of Buddhism we're most likely to encounter today.
 
-**Reading TBD.**
+This is obviously absurdly too much for one meeting.
 
-[Week 11 →]({{ '/curriculum/week-11/' | relative_url }})
+So this might really be less of a final topic and more of a place to ask:
 
----
+**Where do we want to go next?**
 
-## Week 12 — Tibet, Vajrayana, and eventually us
+Maybe we spend a few weeks on Zen.
 
-**Roughly:** Later Indian Mahayana and tantric Buddhism move into Tibet, Tibetan traditions develop, and then we'll zoom way forward to colonialism, Buddhist modernism, Vipassana, Zen and Tibetan Buddhism in the West.
+Maybe we read Nāgārjuna.
 
-Basically: how did all of that history eventually produce the forms of Buddhism we're likely to encounter in the United States today?
+Maybe Tibetan Buddhism becomes its own section.
 
-That's obviously too much for one week, so this may turn into several directions we want to explore later.
+Maybe we go back to the Nikāyas.
 
-**Reading TBD.**
-
-[Week 12 →]({{ '/curriculum/week-12/' | relative_url }})
+We can figure that out when we get there.
 
 ---
 

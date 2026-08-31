@@ -8,12 +8,9 @@ A shared Buddhist reading notebook built with Jekyll and the Minimal Mistakes th
 - Base URL: `_config.yml` uses `url: https://millerms.github.io` and `baseurl: /book-study-group` (links should respect this).
 
 ## Project Structure
-- `_config.yml`: Site config, theme, footer links.
-- `_data/navigation.yml`: Masthead and curriculum sidebar navigation.
+- `_config.yml`: Site and theme configuration.
+- `_data/navigation.yml`: Masthead navigation.
 - `_pages/`: Reading plan and resources.
-- `_weeks/`: The twelve weekly reading pages.
-- `_layouts/week.html`: Shared weekly-page presentation and previous/next navigation.
-- `_includes/week-outline.md`: Reusable placeholder structure for unfilled weekly guides.
 - `index.md`: Home page.
 - `assets/`, `_sass/`: Styles and assets.
 
@@ -26,7 +23,7 @@ Prereqs: Docker Desktop with Compose v2 (`docker compose`).
 - Clean: `make clean`
 
 What it does:
-- Builds a Ruby 3.2 image and installs gems.
+- Builds a Ruby 3.1 image and installs gems.
 - Mounts the repo so edits live-reload (`35729` exposed).
 - Caches gems in a Docker volume for faster subsequent runs.
 
@@ -42,9 +39,8 @@ Open `http://localhost:4000/book-study-group/`.
 
 ## Common Edits
 - Navigation: Edit `_data/navigation.yml`; the theme prefixes `baseurl` for local links.
-- Footer links: Edit `footer.links` in `_config.yml` and include both `label`, `icon`, and `url`.
 - Pages: Add Markdown files in `_pages/` with front matter including `layout` and `permalink`.
-- Weekly guides: Replace the placeholder include in a file under `_weeks/` with verified Markdown content as readings are chosen.
+- Reading plan: Edit `_pages/curriculum.md`; meetings live together on that page.
 
 ## Deploying to GitHub Pages
 This is configured as a GitHub project site. Push to `main`, then enable GitHub Pages in the repository settings. The simplest compatible option is **Deploy from a branch**, using `main` and `/ (root)`. GitHub Actions can be added later if the build needs unsupported plugins or custom processing.

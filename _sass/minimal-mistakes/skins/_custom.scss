@@ -2,20 +2,22 @@
    Custom skin
    ========================================================================== */
 
-/* Warm paper, charcoal type, and a muted blue-green accent. */
-$background-color: #faf8f2 !default;
-$text-color: #303431 !default;
-$muted-text-color: #666b66 !default;
-$primary-color: #3f6f6a !default;
-$border-color: #dedbd1 !default;
-$footer-background-color: #f0ede5 !default;
-$link-color: #356762 !default;
-$link-color-hover: #244c48 !default;
-$link-color-visited: #516b67 !default;
-$masthead-link-color: #454a46 !default;
-$masthead-link-color-hover: #244c48 !default;
-$navicon-link-color-hover: #dce7e3 !default;
-$focus-color: #3f6f6a !default;
+/* Charcoal, warm type, and a quiet blue-green accent. */
+$background-color: #171b1a !default;
+$text-color: #e8e5dc !default;
+$muted-text-color: #aeb2ad !default;
+$primary-color: #8fc7bc !default;
+$border-color: #343c38 !default;
+$code-background-color: #111513 !default;
+$code-background-color-dark: #0d100f !default;
+$form-background-color: #202624 !default;
+$link-color: #8fc7bc !default;
+$link-color-hover: #b5ded6 !default;
+$link-color-visited: #a9beb8 !default;
+$masthead-link-color: #d7d6cf !default;
+$masthead-link-color-hover: #b5ded6 !default;
+$navicon-link-color-hover: #33534d !default;
+$focus-color: #8fc7bc !default;
 
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
