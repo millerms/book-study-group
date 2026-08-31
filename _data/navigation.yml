@@ -2,10 +2,6 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "About This"
-    url: "/about/"
-  - title: "How We're Reading"
-    url: "/how-we-read-primary-texts/"
   - title: "Reading Plan"
     url: "/curriculum/"
   - title: "Texts & Resources"

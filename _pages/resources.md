@@ -4,19 +4,44 @@ permalink: /resources/
 excerpt: "The texts, translations, and background links we keep coming back to."
 ---
 
-This is the shelf where we’ll keep texts, translations, and useful background material as the reading plan fills in.
+Just a few places to find the readings and get some context. We'll add things here if they turn out to be useful.
 
-## Primary Texts
+## SuttaCentral
 
-- [SuttaCentral](https://suttacentral.net/) has early Buddhist texts, multiple translations, and parallel versions across collections and languages. We expect to spend a lot of time there.
+[SuttaCentral](https://suttacentral.net/) has free translations of a huge collection of early Buddhist texts, including the Pāli Canon and parallel texts preserved in other Buddhist traditions.
 
-## What We’ll Add Here
+Most of our primary readings from early Buddhism will link directly there.
 
-- the main text for each week;
-- optional readings when we want to keep going;
-- useful historical background; and
-- translation notes when an important term changes noticeably from one version to another.
+One nice thing about SuttaCentral is that we can also compare translations or look at parallel versions of a text if we get curious about wording or how something was transmitted.
 
-We’ll link the exact translation we’re using when that matters. A link is a useful place to read something, not a declaration that every editorial choice on the site is final.
+**[Go to SuttaCentral](https://suttacentral.net/)**
 
-[See a few ways we’re reading →]({{ '/how-we-read-primary-texts/' | relative_url }})
+## Our companion book
+
+### *In the Buddha's Words* — Bhikkhu Bodhi
+
+We're using *In the Buddha's Words: An Anthology of Discourses from the Pāli Canon* as a loose companion to the early part of our reading.
+
+Bhikkhu Bodhi organizes selected suttas by theme and provides introductions that explain how the readings fit into the larger Buddhist tradition.
+
+We don't have to follow the book exactly, but it gives us a good guide when we want some context from a respected Theravada scholar and teacher.
+
+I'll put the relevant sections on the weekly pages when they line up with what we're reading.
+
+**Optional, but probably useful to have.**
+
+## If we want more history
+
+### *The Foundations of Buddhism* — Rupert Gethin
+
+This is a modern academic introduction to Buddhist history and thought.
+
+It covers early Buddhism as well as the development of later traditions, so it could be useful when we want more historical background than we're getting from Bodhi.
+
+Nobody needs to read this straight through. Think of it more as something we can pull from when a topic needs more context.
+
+## Other stuff
+
+I'll add talks, articles, alternate translations, books, or other rabbit holes here as we find things worth keeping.
+
+For now, that's probably enough.

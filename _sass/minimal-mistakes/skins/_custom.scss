@@ -2,21 +2,20 @@
    Custom skin
    ========================================================================== */
 
-/* Colors */
-$background-color: #eeeeee !default;
-$text-color: #222831 !default;
-$muted-text-color: #393e46 !default;
-$primary-color: #0092ca !default;
-$border-color: mix(#fff, #393e46, 75%) !default;
-$footer-background-color: $primary-color !default;
-$link-color: #393e46 !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-
-.page__footer {
-  color: #fff !important; // override
-}
+/* Warm paper, charcoal type, and a muted blue-green accent. */
+$background-color: #faf8f2 !default;
+$text-color: #303431 !default;
+$muted-text-color: #666b66 !default;
+$primary-color: #3f6f6a !default;
+$border-color: #dedbd1 !default;
+$footer-background-color: #f0ede5 !default;
+$link-color: #356762 !default;
+$link-color-hover: #244c48 !default;
+$link-color-visited: #516b67 !default;
+$masthead-link-color: #454a46 !default;
+$masthead-link-color-hover: #244c48 !default;
+$navicon-link-color-hover: #dce7e3 !default;
+$focus-color: #3f6f6a !default;
 
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
