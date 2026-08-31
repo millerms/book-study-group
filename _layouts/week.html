@@ -2,13 +2,7 @@
 layout: single
 ---
 
-<p class="week-kicker">Week {{ page.week }} of 12</p>
-
 <p class="week-orientation">{{ page.orientation }}</p>
-
-<div class="notice--info">
-  <strong>Outline status:</strong> the structure is ready, but readings and detailed notes have not yet been assigned or verified.
-</div>
 
 {{ content }}
 
@@ -26,15 +20,15 @@ layout: single
   {% endif %}
 {% endfor %}
 
-<nav class="week-navigation" aria-label="Curriculum navigation">
+<nav class="week-navigation" aria-label="Reading plan navigation">
   {% if previous_week %}
     <a class="week-navigation__previous" href="{{ previous_week.url | relative_url }}">← Week {{ previous_week.week }}: {{ previous_week.topic }}</a>
   {% else %}
-    <a class="week-navigation__previous" href="{{ '/curriculum/' | relative_url }}">← Curriculum overview</a>
+    <a class="week-navigation__previous" href="{{ '/curriculum/' | relative_url }}">← Full reading plan</a>
   {% endif %}
   {% if next_week %}
     <a class="week-navigation__next" href="{{ next_week.url | relative_url }}">Week {{ next_week.week }}: {{ next_week.topic }} →</a>
   {% else %}
-    <a class="week-navigation__next" href="{{ '/resources/' | relative_url }}">Resources →</a>
+    <a class="week-navigation__next" href="{{ '/resources/' | relative_url }}">Texts & resources →</a>
   {% endif %}
 </nav>

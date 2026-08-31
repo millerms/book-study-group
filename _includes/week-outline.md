@@ -1,31 +1,29 @@
-## Historical Orientation
+## This Week
 
-*To be developed and source-checked.*
+*We’ll add a short note here as we choose the readings.*
 
-## Core Primary Reading
+## Read
 
-*To be selected and verified.*
+*Main text coming soon.*
 
-## Optional or Deeper Primary Reading
+## If You Want More
 
-*To be selected and verified.*
+*Optional reading coming soon.*
 
-## Secondary and Background Reading
+## Things to Notice
 
-*To be selected and verified.*
+- What is the text doing, not just saying?
+- Which words seem to carry the most weight?
+- What feels unfamiliar, surprising, or difficult?
+- What might we be bringing to the text ourselves?
 
-## Key Concepts
+## When We Meet
 
-*To be developed with attention to terminology and translation.*
+- What stayed with you after reading?
+- What did not make sense?
+- Where did two translations or interpretations pull in different directions?
+- What would be worth reading again more slowly?
 
-## Historical Context
+## Something to Try
 
-*To be developed with clear distinctions between evidence, inference, and tradition.*
-
-## Discussion Questions
-
-*To be developed after the readings are selected.*
-
-## Practice and Reflection
-
-*To be developed where appropriate. Practice suggestions will be distinguished from historical claims and traditional interpretation.*
+*If the reading suggests a practice we can reasonably try, we’ll put it here. Some weeks may not need one.*

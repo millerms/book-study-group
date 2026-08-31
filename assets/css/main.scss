@@ -8,17 +8,46 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Buddhist Bible Study: restrained reading-focused refinements. */
+/* Buddhist Bible Study: quiet, bookish reading-notebook refinements. */
 :root {
   --study-accent: #566b5a;
   --study-accent-dark: #3f5143;
-  --study-paper: #f7f6f1;
-  --study-rule: #d9d7cf;
+  --study-paper: #fbfaf6;
+  --study-ink: #30322e;
+  --study-muted: #66685f;
+  --study-rule: #e3e0d7;
 }
 
-.masthead,
+body {
+  color: var(--study-ink);
+  background-color: var(--study-paper);
+}
+
+.masthead {
+  background-color: rgba(251, 250, 246, 0.96);
+  border-bottom: 1px solid var(--study-rule);
+  box-shadow: none;
+}
+
+.site-title {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-weight: 600;
+}
+
+.site-subtitle,
+.masthead__menu-item {
+  color: var(--study-muted);
+}
+
 .page__footer {
-  border-color: var(--study-rule);
+  color: var(--study-muted);
+  background-color: #f1efe8;
+  border-top: 1px solid var(--study-rule);
+}
+
+.page__footer a,
+.page__footer a:visited {
+  color: var(--study-accent-dark);
 }
 
 .site-title,
@@ -30,11 +59,39 @@ search: false
 }
 
 .page__content {
-  line-height: 1.72;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 1.02em;
+  line-height: 1.78;
+}
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-weight: 600;
+}
+
+.page__content h2 {
+  margin-top: 2.25em;
+  padding-bottom: 0;
+  font-size: 1.35em;
+  border-bottom: 0;
+}
+
+.layout--single .page {
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+}
+
+.layout--single .page__inner-wrap {
+  max-width: 44rem;
+  margin-inline: auto;
 }
 
 .splash .page__content {
-  max-width: 64rem;
+  max-width: 46rem;
   margin-inline: auto;
 }
 
@@ -42,7 +99,7 @@ search: false
 .splash .page__content > ul,
 .splash .page__content > ol,
 .splash .page__content > blockquote {
-  max-width: 48rem;
+  max-width: 46rem;
 }
 
 .page__content a:not(.btn) {
@@ -58,19 +115,27 @@ search: false
   background-color: var(--study-accent-dark);
 }
 
-.week-kicker {
-  margin-bottom: 0.25rem;
+.btn--inverse,
+.btn--inverse:visited {
   color: var(--study-accent-dark);
-  font-family: $sans-serif;
-  font-size: 0.78em;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  background-color: transparent;
+  border-color: var(--study-rule);
+}
+
+.btn--inverse:hover {
+  color: var(--study-accent-dark);
+  background-color: #f1efe8;
 }
 
 .week-orientation {
   margin-top: 0;
-  font-size: 1.1em;
+  color: var(--study-muted);
+  font-size: 1.08em;
+  font-style: italic;
+}
+
+.page__meta {
+  display: none;
 }
 
 .week-navigation {
@@ -81,7 +146,8 @@ search: false
   padding-top: 1.25rem;
   border-top: 1px solid var(--study-rule);
   font-family: $sans-serif;
-  font-size: 0.85em;
+  font-size: 0.78em;
+  line-height: 1.45;
 }
 
 .week-navigation__next {

@@ -1,28 +1,22 @@
 ---
-title: "Resources and Primary Text Library"
+title: "Texts & Resources"
 permalink: /resources/
-excerpt: "Public text collections and source notes for the curriculum."
+excerpt: "The texts, translations, and background links we keep coming back to."
 ---
 
-This library will grow alongside the curriculum. A source will be assigned to a week only after its identity, context, translation, and link have been checked.
+This is the shelf where we’ll keep texts, translations, and useful background material as the reading plan fills in.
 
-## Primary Text Collections
+## Primary Texts
 
-- [SuttaCentral](https://suttacentral.net/) provides early Buddhist texts, translations, parallels, and tools for comparing versions across collections and languages.
+- [SuttaCentral](https://suttacentral.net/) has early Buddhist texts, multiple translations, and parallel versions across collections and languages. We expect to spend a lot of time there.
 
-## How Resources Will Be Organized
+## What We’ll Add Here
 
-Each weekly page will eventually distinguish:
+- the main text for each week;
+- optional readings when we want to keep going;
+- useful historical background; and
+- translation notes when an important term changes noticeably from one version to another.
 
-- **Core primary readings:** the small set everyone is invited to read.
-- **Optional primary readings:** parallel or deeper texts for comparison.
-- **Secondary background:** historically responsible introductions and scholarship.
-- **Translation notes:** important terms or places where translations differ materially.
+We’ll link the exact translation we’re using when that matters. A link is a useful place to read something, not a declaration that every editorial choice on the site is final.
 
-## Selection Principles
-
-We will prefer stable, freely accessible sources and identify the translation being used. A link appearing here does not make every translation or editorial claim on the linked site authoritative.
-
-Detailed reading lists have not yet been added. That is deliberate: source selection and historical claims will be developed and verified separately.
-
-[See how we read primary texts →]({{ '/how-we-read-primary-texts/' | relative_url }})
+[See a few ways we’re reading →]({{ '/how-we-read-primary-texts/' | relative_url }})

@@ -1,55 +1,39 @@
 ---
-title: "How We Read Primary Texts"
+title: "A Few Ways We’re Reading"
 permalink: /how-we-read-primary-texts/
-excerpt: "A six-part method for reading Buddhist primary sources carefully and openly."
-toc: true
-toc_sticky: true
+excerpt: "Some notes to ourselves for reading Buddhist texts without moving too quickly."
 ---
 
-Primary texts are not transparent windows onto a single, timeless Buddhism. They come from particular settings, have literary structures, preserve interpretive choices, and have been read differently across Buddhist traditions.
+These are not rules for interpreting Buddhist texts. They are reminders to slow down, pay attention, and resist making the text agree with us too quickly.
 
-This method gives us six passes through a text. They do not have to happen in a rigid order, but each corrects a common way of reading too quickly.
+## Start With the Scene
 
-## 1. Context
+Who is speaking? Who are they talking to? What happened that made this teaching worth giving here?
 
-Who is speaking to whom, and why? What situation or problem occasioned the teaching?
+## Follow the Shape
 
-Before extracting a general doctrine, identify the people, setting, audience, and immediate concern presented by the text.
+Before deciding what a passage means, look at what it does. Notice its argument, lists, repetitions, and the order in which ideas appear. Repetition may be doing real work, especially in texts shaped by oral transmission.
 
-## 2. Structure
+## Slow Down Around Important Words
 
-What is the text actually doing? Identify its argument, categories, repetitions, and progression before interpreting it.
+Translations make choices for us. When a term carries a lot of weight, compare versions and keep the original word nearby. *Dukkha*, *dhamma*, *anattā*, *saṅkhāra*, *śūnyatā*, and *bodhicitta* rarely fit inside one neat English equivalent.
 
-Repetition may be part of an oral or mnemonic structure rather than padding. Lists and formulas may organize a practice, an argument, or both.
+## Ask When It Comes From
 
-## 3. Language
+What kind of source is this? How old might the teaching be? When did the collection take shape? Are there parallel versions? Sometimes the honest answer is a range of possibilities rather than a date.
 
-Which words carry interpretive weight? Compare translations for important terms rather than assuming the English translation is transparent.
+## Ask What It Is Trying to Do
 
-Terms such as *dukkha*, *dhamma*, *anattā*, *saṅkhāra*, *śūnyatā*, and *bodhicitta* carry histories and ranges of meaning that no single English equivalent can always preserve.
+A text may be making an argument, but it may also be training attention, shaping conduct, settling a community question, or giving someone a practice. What is the listener supposed to notice, cultivate, or let go of?
 
-## 4. History
+## Try It, When That Makes Sense
 
-What kind of source is this? Approximately when does it appear? Are there parallel versions? What can responsibly be said about its antiquity?
+Some claims can be investigated in experience without accepting a whole belief system first. If a text proposes something we can actually try, what happens when we try it?
 
-We should distinguish the date represented by a narrative, the possible age of a teaching, the formation of a textual collection, and the date of surviving manuscripts or editions.
-
-## 5. Function
-
-What transformation is the teaching trying to produce? What is the listener supposed to understand, observe, cultivate, or relinquish?
-
-A text may make philosophical claims, but it may also function as instruction, recollection, ethical formation, meditation guidance, communal regulation, or ritual speech.
-
-## 6. Investigation
-
-What happens if we actually try what the text proposes? Can its claims be investigated experientially without requiring prior belief?
-
-Investigation is not the same as accepting every claim in advance. It asks what can be observed, tested, or clarified through careful practice and reflection.
-
-## The Recurring Question
+## The Question Under All the Other Questions
 
 > What are we bringing to the text that isn't actually in the text?
 
-That question applies to modern assumptions as much as traditional ones. We will keep returning to the distinction among **historical reconstruction**, **traditional interpretation**, and **personal or contemporary practice**. Each can illuminate a text; none should silently stand in for the others.
+Sometimes we are asking what probably happened historically. Sometimes we are asking how a Buddhist tradition understands a teaching. Sometimes we are asking what happens in our own experience. All three are interesting. They are just not always the same question.
 
 [Begin with Week 1 →]({{ '/curriculum/week-01/' | relative_url }})

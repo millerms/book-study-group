@@ -1,15 +1,12 @@
 ---
-title: "Twelve-Week Curriculum"
+title: "The Reading Plan"
 permalink: /curriculum/
-excerpt: "A first pass through Buddhist history, early teachings, and the development of major traditions."
-sidebar:
-  nav: "curriculum"
+excerpt: "Twelve weeks from early Buddhism to the many traditions that followed."
 ---
 
-This course begins with the historical and religious world in which Buddhism emerged, then reads across early teachings and practices before tracing the development of major Buddhist traditions.
+This is our first pass through a very large subject. We start with early Buddhism, spend time with a few core teachings and practices, then follow the history into the traditions that developed afterward.
 
-The weekly pages are structured outlines. Specific primary and secondary readings will be added only after they have been checked for accuracy, context, translation quality, and stable public access.
-{: .notice--info}
+The reading lists are still taking shape. We’re adding texts as we choose and check them, rather than filling twelve pages with impressive-looking links we have not read yet.
 
 {% assign ordered_weeks = site.weeks | sort: "order" %}
 {% for item in ordered_weeks %}

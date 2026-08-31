@@ -7,37 +7,19 @@ permalink: /
 ---
 # Buddhist Bible Study
 
-An informal, historically informed study of Buddhist texts and traditions. This twelve-week first pass moves from the world of early Buddhism through the development of Theravada, Mahayana, East Asian Buddhism, Vajrayana, and modern forms of Buddhist practice.
+A few of us wanted to understand Buddhism a little more systematically. Where did the different traditions come from? How do they fit together? What do some of the early texts actually say?
 
-[Start the curriculum]({{ '/curriculum/' | relative_url }}){: .btn .btn--primary }
-[See how we read primary texts]({{ '/how-we-read-primary-texts/' | relative_url }}){: .btn .btn--inverse }
+So this is our shared reading notebook.
 
-## What We Are Studying
+We’re starting with early Buddhism and the Pāli Canon, then following the story outward through Theravada, Mahayana, Zen and other East Asian traditions, Vajrayana, and modern Western Buddhism. Buddhism has had about 2,500 years to become complicated, so twelve weeks should obviously take care of it.
 
-The course has four connected aims:
+We’re not trying to settle what Buddhism “really is.” Mostly we’re reading, comparing, asking questions, and seeing what holds up.
 
-- Understand the historical development of Buddhism and its major traditions.
-- Read early Buddhist teachings closely, especially texts preserved in the Pāli Canon.
-- Follow the emergence of later traditions without treating Buddhism as a single, unchanging system.
-- Keep historical reconstruction, traditional interpretation, and contemporary practice distinct without assuming that one makes the others irrelevant.
+[Start with Week 1]({{ '/curriculum/week-01/' | relative_url }}){: .btn .btn--primary }
+[See the full reading plan]({{ '/curriculum/' | relative_url }}){: .btn .btn--inverse }
 
-## The Twelve-Week Path
-
-The first six weeks establish the early Buddhist setting, teachings, practices, and communal life. The second six trace transmission, textual formation, and the development of major Buddhist traditions.
-
-| Weeks | Focus |
-|:--|:--|
-| 1–3 | The Buddha's world; dukkha and the path; self and not-self |
-| 4–6 | Dependent origination; meditation; ethics and saṅgha |
-| 7–9 | Oral transmission and early schools; Theravada; Mahayana |
-| 10–12 | Nāgārjuna; East Asian Buddhism; Vajrayana and modern Buddhism |
-
-[View all twelve weeks →]({{ '/curriculum/' | relative_url }})
-
-## A Study Group, Not an Authority
-
-This site supports a small group of friends reading together. It is not a lineage institution, a substitute for a teacher, or a claim to settle contested historical questions. Reading lists and source notes will be added only after they have been checked.
-
-Our recurring question is simple:
+## One Question We Keep Coming Back To
 
 > What are we bringing to the text that isn't actually in the text?
+
+There are a few more notes on [how we’re reading]({{ '/how-we-read-primary-texts/' | relative_url }}), plus a growing pile of [texts and resources]({{ '/resources/' | relative_url }}).
