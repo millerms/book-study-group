@@ -1,0 +1,40 @@
+---
+layout: single
+---
+
+<p class="week-kicker">Week {{ page.week }} of 12</p>
+
+<p class="week-orientation">{{ page.orientation }}</p>
+
+<div class="notice--info">
+  <strong>Outline status:</strong> the structure is ready, but readings and detailed notes have not yet been assigned or verified.
+</div>
+
+{{ content }}
+
+{% assign ordered_weeks = site.weeks | sort: "order" %}
+{% for item in ordered_weeks %}
+  {% if item.url == page.url %}
+    {% unless forloop.first %}
+      {% assign previous_index = forloop.index0 | minus: 1 %}
+      {% assign previous_week = ordered_weeks[previous_index] %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next_index = forloop.index0 | plus: 1 %}
+      {% assign next_week = ordered_weeks[next_index] %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+<nav class="week-navigation" aria-label="Curriculum navigation">
+  {% if previous_week %}
+    <a class="week-navigation__previous" href="{{ previous_week.url | relative_url }}">← Week {{ previous_week.week }}: {{ previous_week.topic }}</a>
+  {% else %}
+    <a class="week-navigation__previous" href="{{ '/curriculum/' | relative_url }}">← Curriculum overview</a>
+  {% endif %}
+  {% if next_week %}
+    <a class="week-navigation__next" href="{{ next_week.url | relative_url }}">Week {{ next_week.week }}: {{ next_week.topic }} →</a>
+  {% else %}
+    <a class="week-navigation__next" href="{{ '/resources/' | relative_url }}">Resources →</a>
+  {% endif %}
+</nav>

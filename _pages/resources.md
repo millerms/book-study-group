@@ -1,19 +1,28 @@
 ---
-layout: splash
-title: Resources
+title: "Resources and Primary Text Library"
 permalink: /resources/
-classes:
-  - landing
-  - dark-theme
-
+excerpt: "Public text collections and source notes for the curriculum."
 ---
 
-# Resources Below:
+This library will grow alongside the curriculum. A source will be assigned to a week only after its identity, context, translation, and link have been checked.
 
-- **[Recovery Dharma Book (PDF)](https://drive.google.com/file/d/1Isotp-WlUedFJlKDqjpvO7uKgVsvX3J1/view)**
-- Free Meditation App - **[Insight Timer](https://insighttimer.com/)**
-- Sam Harris' App - **[Waking Up App](https://www.wakingup.com/)** (I can send you a 30-day trial if you want / you can ask for a discount or free year)
-  - **[30-Day Guest Pass to Waking Up](https://dynamic.wakingup.com/guestpass/SCD12E706)** 
-- Thich Naht Hanh's Tradition - **[Plum Village App](https://plumvillage.app/)**
-- **[RDVT](https://rdvt.org/)**
-- **[Recovery Dharma Global](https://recoverydharma.org/)**
+## Primary Text Collections
+
+- [SuttaCentral](https://suttacentral.net/) provides early Buddhist texts, translations, parallels, and tools for comparing versions across collections and languages.
+
+## How Resources Will Be Organized
+
+Each weekly page will eventually distinguish:
+
+- **Core primary readings:** the small set everyone is invited to read.
+- **Optional primary readings:** parallel or deeper texts for comparison.
+- **Secondary background:** historically responsible introductions and scholarship.
+- **Translation notes:** important terms or places where translations differ materially.
+
+## Selection Principles
+
+We will prefer stable, freely accessible sources and identify the translation being used. A link appearing here does not make every translation or editorial claim on the linked site authoritative.
+
+Detailed reading lists have not yet been added. That is deliberate: source selection and historical claims will be developed and verified separately.
+
+[See how we read primary texts →]({{ '/how-we-read-primary-texts/' | relative_url }})

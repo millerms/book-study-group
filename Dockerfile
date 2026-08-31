@@ -1,4 +1,4 @@
-FROM ruby:3.2-slim
+FROM ruby:3.1-slim
 
 # Install build deps for Jekyll and native gems (e.g., nokogiri)
 RUN apt-get update \
@@ -15,8 +15,8 @@ RUN apt-get update \
 WORKDIR /site
 
 # Pre-install gems with cache efficiency
-COPY Gemfile Gemfile.lock ./
-RUN gem install bundler:2.7.1 \
+COPY Gemfile ./
+RUN gem install bundler:2.4.22 \
   && bundle config set path 'vendor/bundle' \
   && bundle install --jobs 4 --retry 3
 
@@ -29,4 +29,3 @@ ENV JEKYLL_ENV=development \
     BUNDLE_PATH=/site/vendor/bundle
 
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--livereload", "--trace"]
-
